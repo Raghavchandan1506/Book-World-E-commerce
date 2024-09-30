@@ -1,0 +1,220 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "To Kill a Mockingbird",
+        "company": "Harper Lee",
+        "price": 280.99,
+        "dealprice": 250,
+        "image": [
+          "https://i.pinimg.com/474x/64/33/9b/64339bb3ce6a626002005ccab5f49e67.jpg",
+          "https://i.pinimg.com/474x/e1/e9/65/e1e965a70b9a5249a0415594ae6988d3.jpg",
+          "https://i.pinimg.com/236x/44/82/92/44829200c4f4f89352fe190b4b49cc57.jpg",
+          "https://i.pinimg.com/236x/b4/e4/d9/b4e4d9f19b7e3859371394de30b43c7e.jpg"
+        ],
+        "description": "A novel of warmth and humor, despite dealing with serious issues of rape and racial inequality. Set in the American South, it tells the story of young Scout Finch and her father, lawyer Atticus Finch. Atticus is tasked with defending a black man falsely accused of raping a white woman, and the novel explores themes of morality and justice, along with the loss of innocence.",
+        "category": "Fiction",
+        "featured": true
+      },
+      {
+        "id": 2,
+        "name": "1984",
+        "company": "George Orwell",
+        "price": 340.99,
+        "dealprice": 310,
+        "image": [
+          "https://i.pinimg.com/474x/e6/1a/53/e61a538981d8748fb9083f77cd66766f.jpg",
+          "https://i.pinimg.com/236x/db/8d/b9/db8db9d7e9f1ce645543229c5fa57842.jpg",
+          "https://i.pinimg.com/236x/09/05/36/09053697b406b5dee699eebb3c52a79b.jpg",
+          "https://i.pinimg.com/236x/6e/56/0b/6e560b465a7009de1828d2dac58bb65c.jpg"
+        ],
+        "description": "A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism. It follows Winston Smith, a man struggling against the oppressive government known as 'Big Brother.' Through his eyes, the novel critiques surveillance, censorship, and the erosion of individual freedoms, revealing the terrifying consequences of a society stripped of privacy and truth.",
+        "category": "Fiction",
+        "featured": true
+      },
+      {
+        "id": 3,
+        "name": "The Great Gatsby",
+        "company": "F. Scott Fitzgerald",
+        "price": 270.99,
+        "dealprice": 250,
+        "image": [
+          "https://i.pinimg.com/236x/4e/d8/4d/4ed84df901474623ee704a2937e60163.jpg",
+          "https://i.pinimg.com/236x/d8/3e/18/d83e18cd8ca3f7db5ae4a12391cc0262.jpg",
+          "https://i.pinimg.com/236x/c4/40/79/c44079ae8ad71358f598e0e3454aaa15.jpg"
+        ],
+        "description": "A novel about the decline of the American Dream in the 1920s. It focuses on the mysterious millionaire Jay Gatsby and his unrequited love for Daisy Buchanan. Set in the opulent world of Long Island’s elite, Fitzgerald explores themes of wealth, love, and the fleeting nature of happiness, ultimately highlighting the emptiness behind Gatsby’s glamorous lifestyle.",
+        "category": "Fiction",
+        "featured": true
+      },
+      {
+        "id": 4,
+        "name": "Becoming",
+        "company": "Michelle Obama",
+        "price": 220.99,
+        "dealprice": 200,
+        "image": [
+          "https://i.pinimg.com/236x/9f/0f/e2/9f0fe2598f28f600161ac3a45be0146a.jpg",
+          "https://i.pinimg.com/474x/06/d9/e0/06d9e0f5c4cbfae8121ec5d20d327019.jpg",
+          "https://i.pinimg.com/236x/20/e9/7a/20e97a1b49dadf7214e4621ce7f710b2.jpg"
+        ],
+        "description": "A deeply personal memoir by the former First Lady of the United States, Michelle Obama. The book chronicles her journey from childhood in Chicago to her years as an advocate and role model. It offers an intimate look at her time in the White House, her balancing of family life, and her efforts to empower women, illustrating her commitment to education and healthy living.",
+        "category": "Biography"
+      },
+      {
+        "id": 5,
+        "name": "Sapiens: A Brief History of Humankind",
+        "company": "Yuval Noah Harari",
+        "price": 210.99,
+        "dealprice": 190,
+        "image": [
+          "https://i.pinimg.com/236x/d0/e1/22/d0e122f29bba100b224144635859a249.jpg",
+          "https://i.pinimg.com/236x/30/7a/20/307a206f931e870d752bda2af2dd6b0a.jpg",
+          "https://i.pinimg.com/236x/69/ea/d8/69ead8a6e5537ac492aa3edcfa8cff37.jpg"
+        ],
+        "description": "An exploration of how Homo sapiens came to dominate the Earth. Harari examines key events in human history, from the Cognitive Revolution to the Agricultural and Scientific Revolutions. The book challenges readers to rethink what it means to be human, as Harari traces our journey from primitive hunter-gatherers to the creators of modern civilization, revealing the complexities of our development.",
+        "category": "Non-Fiction"
+      },
+      {
+        "id": 6,
+        "name": "Atomic Habits",
+        "company": "James Clear",
+        "price": 169.99,
+        "dealprice": 150,
+        "image": [
+          "https://i.pinimg.com/236x/39/d9/d6/39d9d620d911c59cddd87302a2810bc3.jpg",
+          "https://i.pinimg.com/474x/2f/af/a6/2fafa6034d51d0db48eba0b18de495af.jpg",
+          "https://i.pinimg.com/474x/d7/63/9f/d7639f6943f28aa5293f5787651091b4.jpg"
+        ],
+        "description": "A practical guide on how to build good habits and break bad ones. Clear emphasizes the power of small changes and how tiny improvements can lead to remarkable results over time. He provides actionable strategies for habit formation and maintenance, empowering readers to take control of their behaviors and ultimately transform their lives.",
+        "category": "Self-help"
+      },
+      {
+        "id": 7,
+        "name": "Educated",
+        "company": "Tara Westover",
+        "price": 199.99,
+        "dealprice": 160,
+        "image": [
+          "https://i.pinimg.com/236x/92/ef/98/92ef981e0920fda5fbbf6cd30dd21b79.jpg",
+          "https://i.pinimg.com/474x/e1/8c/3b/e18c3b005000ea6ec2c4c34ef5f3fa4f.jpg",
+          "https://i.pinimg.com/236x/e8/5e/17/e85e17725133e939dabba4e89fc75713.jpg"
+        ],
+        "description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho. Tara Westover recounts her journey from a childhood without formal education to earning a PhD from Cambridge University. Her story illustrates the transformative power of education and the struggle to reconcile her past with her present.",
+        "category": "Biography"
+      },
+      {
+        "id": 8,
+        "name": "The Catcher in the Rye",
+        "company": "J.D. Salinger",
+        "price": 428.99,
+        "dealprice": 400,
+        "image": [
+          "https://i.pinimg.com/236x/4b/be/9c/4bbe9c695bd2c2005847108120df0612.jpg",
+          "https://i.pinimg.com/236x/24/08/0e/24080eee533e92c25cb3b8e7d37284f5.jpg",
+          "https://i.pinimg.com/474x/7c/dd/78/7cdd7838bea47ea5708bf848b73f5c91.jpg"
+        ],
+        "description": "A classic novel about teenage angst and alienation, narrated by the cynical and disenchanted Holden Caulfield. Set in New York City, Holden shares his experiences after being expelled from prep school, grappling with the phoniness of adulthood and the challenges of growing up. Salinger’s work captures the struggles of youth and the search for identity.",
+        "category": "Fiction"
+      },
+      {
+        "id": 9,
+        "name": "The Alchemist",
+        "company": "Paulo Coelho",
+        "price": 300.99,
+        "dealprice": 270,
+        "image": [
+          "https://i.pinimg.com/236x/91/4d/8b/914d8be3d4af624f218a8c2b5d9e1008.jpg",
+          "https://i.pinimg.com/236x/77/42/1f/77421f0c8050e03ce3bdf3f1903dba7b.jpg",
+          "https://i.pinimg.com/474x/9f/7c/81/9f7c81edcf05f10c179b9f0a6e711d67.jpg"
+        ],
+        "description": "A philosophical novel that tells the story of Santiago, a shepherd boy who dreams of discovering a treasure located at the Egyptian pyramids. Throughout his journey, he learns valuable lessons about following one's dreams, the importance of listening to one's heart, and recognizing the interconnectedness of all things. Coelho's work inspires readers to seek their own paths and fulfill their destinies.",
+        "category": "Fiction"
+      },
+      {
+        "id": 10,
+        "name": "The Power of Habit",
+        "company": "Charles Duhigg",
+        "price": 210.99,
+        "dealprice": 190,
+        "image": [
+          "https://i.pinimg.com/236x/3f/ec/19/3fec19e446ecc983fba993e638567c4a.jpg",
+          "https://i.pinimg.com/474x/7d/fd/37/7dfd37137cd2091fe746e45f820a463d.jpg",
+          "https://i.pinimg.com/236x/b1/c5/f4/b1c5f48429dbde55c7332257fb57eee3.jpg"
+        ],
+        "description": "An insightful exploration of the science behind habits, explaining how they are formed and how they can be changed. Duhigg shares compelling stories from various fields, including business, health, and sports, illustrating the impact of habits on our lives. The book provides readers with practical strategies for harnessing the power of habits to create positive change.",
+        "category": "Self-help"
+      },
+      {
+        "id": 11,
+        "name": "The Silent Patient",
+        "company": "Alex Michaelides",
+        "price": 189.99,
+        "dealprice": 150,
+        "image": [
+          "https://i.pinimg.com/236x/48/9e/89/489e89536a952467dfbedb92d02b3b64.jpg",
+          "https://i.pinimg.com/236x/7d/f4/ae/7df4ae99b9e6044e60c65818230d0192.jpg",
+          "https://i.pinimg.com/236x/2e/94/0c/2e940c1f2f096d1fc1f629ff65e4c96e.jpg"
+        ],
+        "description": "A psychological thriller about a woman, Alicia Berenson, who shoots her husband and then stops speaking. The story is narrated by Theo Faber, a psychotherapist who becomes obsessed with uncovering the truth behind Alicia’s silence. As he delves into her past, the novel explores themes of trauma, obsession, and the complexities of the human mind, culminating in a shocking twist.",
+        "category": "Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Dune",
+        "company": "Frank Herbert",
+        "price": 249.99,
+        "dealprice": 220,
+        "image": [
+          "https://i.pinimg.com/236x/1b/83/b7/1b83b7fd9aba1bc0a5087968dbe4ce70.jpg",
+          "https://i.pinimg.com/236x/15/b9/ec/15b9eca0eec1bd25ce6aeecdddb3c9ce.jpg",
+          "https://i.pinimg.com/474x/eb/41/02/eb4102b03f97e67f4e9e2e0c40c7a090.jpg"
+        ],
+        "description": "A science fiction epic set on the desert planet Arrakis, focusing on the struggle for control over the valuable spice melange. The story follows Paul Atreides, a young nobleman whose family becomes embroiled in a conspiracy that leads to betrayal and conflict. Herbert explores complex themes of politics, religion, and ecology, creating a rich world filled with intricate characters and moral dilemmas.",
+        "category": "Science Fiction"
+      },
+      {
+        "id": 13,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "company": "J.K. Rowling",
+        "price": 299.99,
+        "dealprice": 250,
+        "image": [
+          "https://i.pinimg.com/236x/68/08/e2/6808e2893d29d0e7fd07c1d5f30bfbcf.jpg",
+          "https://i.pinimg.com/236x/07/5c/b8/075cb89e1b0123a4f29e542271d16774.jpg",
+          "https://i.pinimg.com/474x/54/23/2d/54232d6c583909483eb09cb8e6a11d32.jpg"
+        ],
+        "description": "The first book in the beloved Harry Potter series, introducing readers to the world of magic and Hogwarts School of Witchcraft and Wizardry. Harry, an orphan raised by neglectful relatives, discovers his true identity as a wizard on his 11th birthday. The novel follows his adventures as he makes friends, faces challenges, and uncovers the mystery of his parents' death, setting the stage for an epic saga of friendship and courage.",
+        "category": "Fantasy"
+      },
+      {
+        "id": 14,
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "company": "Mark Manson",
+        "price": 159.99,
+        "dealprice": 140,
+        "image": [
+          "https://i.pinimg.com/236x/0a/8d/64/0a8d64e62466b27ddd445054cb007812.jpg",
+          "https://i.pinimg.com/236x/29/5a/9b/295a9b13243b1a1e04370bc446526fa3.jpg",
+          "https://i.pinimg.com/236x/29/5a/9b/295a9b13243b1a1e04370bc446526fa3.jpg"
+        ],
+        "description": "A self-help book offering unconventional advice on living a better life by caring about fewer things. Manson argues that our culture's obsession with positivity can lead to dissatisfaction. Instead, he emphasizes the importance of acknowledging our limitations and focusing on what truly matters. Through candid anecdotes and blunt humor, he provides readers with practical guidance on how to prioritize their values and make meaningful choices.",
+        "category": "Self-help"
+      },
+      {
+        "id": 15,
+        "name": "Where the Crawdads Sing",
+        "company": "Delia Owens",
+        "price": 179.99,
+        "dealprice": 150,
+        "image": [
+          "https://i.pinimg.com/236x/02/98/0d/02980d7bf5ca9bbadad7eea823175b70.jpg",
+          "https://i.pinimg.com/236x/02/98/0d/02980d7bf5ca9bbadad7eea823175b70.jpg",
+          "https://i.pinimg.com/236x/9c/4c/96/9c4c96fae8af48ce889620cdb8f7b8f8.jpg"
+        ],
+        "description": "A mystery and coming-of-age novel set in the marshes of North Carolina, following Kya Clark, the 'Marsh Girl.' Abandoned by her family and ostracized by her community, Kya grows up isolated and learns to survive in the wild. The narrative intertwines her struggles with a murder investigation, exploring themes of loneliness, love, and the natural world. Owens beautifully captures the connection between humanity and nature, making Kya’s story a poignant tale of resilience.",
+        "category": "Fiction"
+      }
+    ]
+  }
+  
